@@ -113,7 +113,7 @@ public class Fenster {
 		frmGuard.getContentPane().add(LogTxt);
 		
 		JProgressBar progressBar = new JProgressBar();
-		progressBar.setValue(55); //Projekt state
+		progressBar.setValue(100); //Projekt state
 		progressBar.setBounds(10, 387, 711, 20);
 		frmGuard.getContentPane().add(progressBar);
 		
